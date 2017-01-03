@@ -35,6 +35,6 @@ CREATE TABLE ordine
 )
 
 -- SCRIPT PER PULIRE LE TABELLE
-delete from ordine;
-delete from utente;
-delete from articolo;
+--delete from ordine;
+--delete from utente;
+--delete from articolo;
