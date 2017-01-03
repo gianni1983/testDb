@@ -1,7 +1,5 @@
 package it.testdb.app;
 
-import java.sql.Connection;
-
 import it.testdb.app.service.DbFactory;
 
 
