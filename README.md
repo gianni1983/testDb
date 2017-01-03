@@ -1,0 +1,2 @@
+# testDb
+Test MagNews
